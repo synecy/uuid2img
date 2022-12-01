@@ -6,6 +6,8 @@ Produces unique-enough images for most use cases.
 
 It probably also works for other random input strings but it works best with UUIDs.
 
+![16fd2706-8baf-433b-82eb-8c7fada847da](sample.png)
+
 # Example
 
 ```go
